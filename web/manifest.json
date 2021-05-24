@@ -1,0 +1,23 @@
+{
+    "name": "britanico_web",
+    "short_name": "Instituto Britanico",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#0175C2",
+    "description": "Instituto Britanico de Rivera",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Britanico.ico",
+            "sizes": "192x192",
+            "type": "image/ico"
+        },
+        {
+            "src": "icons/Britanico.ico",
+            "sizes": "512x512",
+            "type": "image/ico"
+        }
+    ]
+}
